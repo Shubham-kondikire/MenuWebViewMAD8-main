@@ -455,7 +455,8 @@ The WebView loads web pages inside the application, while the Options Menu provi
 
 ### Output Screenshot
 
-<img width="732" height="1600" alt="screenshot8 png" src="PASTE_YOUR_GITHUB_ATTACHMENT_LINK_HERE" />
+<img width="720" height="1600" alt="MADEXP8 png" src="https://github.com/user-attachments/assets/b090eb7a-6a1f-4bdb-9720-2ddf75814ccb" />
+
 
 ---
 
